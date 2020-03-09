@@ -1,3 +1,4 @@
 change: now this is the final one!
 Git has a mutable index called stage.
+go on.
 first add.
